@@ -1,0 +1,12 @@
+target/
+build/
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
+*.iml
+.idea/
+.vscode/
+.git/
+.gitignore
+Dockerfile
+.dockerignore
+README.md
